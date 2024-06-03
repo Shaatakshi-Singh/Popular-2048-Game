@@ -9,4 +9,4 @@
 <li><h3>Game Over Detection:</h3> Automatically detects when no more moves are possible and displays a game over message.</li>
 </ul>
 <h1>Screenshots</h1>
-![Alt text](/relative/path/to/Game_in_motion.png?raw=true "Game in motion")
+<img width="632" alt="Game_in_motion" src="https://github.com/Shaatakshi-Singh/Popular-2048-Game/assets/162795544/b3af0b3a-fced-48d7-a7c6-7b75595b4c33">
