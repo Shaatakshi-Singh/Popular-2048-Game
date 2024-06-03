@@ -9,4 +9,4 @@
 <li><h3>Game Over Detection:</h3> Automatically detects when no more moves are possible and displays a game over message.</li>
 </ul>
 <h1>Screenshots</h1>
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/Game_in_motion.png?raw=true "Game in motion")
